@@ -9,3 +9,11 @@
 - Much quicker and safer than a web application
 - No trackers and key loggers to worry about
 - The restriction is to comply with most account setup requirements
+
+## How?
+
+Type the command below:
+
+```py
+python3 app.py
+```
