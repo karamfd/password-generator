@@ -8,7 +8,7 @@
 
 - Much quicker and safer than a web application
 - No trackers and key loggers to worry about
-- The restriction is to comply with most account setup requirements
+- Password length restriction is to comply with most account setup requirements
 
 ## How?
 
