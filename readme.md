@@ -14,6 +14,6 @@
 
 Type the command below:
 
-```py
-python3 app.py
+```sh
+swift app.swift
 ```
