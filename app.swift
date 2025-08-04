@@ -1,7 +1,10 @@
 while true {
   print("Password (8 to 32 characters): ", terminator: "")
   
-  guard let input = readLine(), let passwordLength = Int(input) else {
+  guard let input = readLine(),
+  let passwordLength = Int(input)
+  
+  else {
     print("Invalid input. Please enter a number.")
     continue
   }
