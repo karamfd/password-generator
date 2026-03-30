@@ -4,6 +4,10 @@
 - Includes letters, digits and symbols
 - Passwords are between 8 and 32 characters
 
+## WARNING
+
+The code in this repository is AI generated for learning purposes. Do not use this in production!
+
 ## Why?
 
 - Much quicker and safer than a web application
